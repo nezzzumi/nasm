@@ -4,9 +4,9 @@ This repo contains some exercises based on my studies of x86 NASM assembly, foll
 
 ## \_lessons
 
-1. [Hello, World!](./1/)
-2. [Proper Program Exit](./2/)
-3. [Calculating String Length](./3/)
+1. [Hello, World!](./1.%20Hello%20World/)
+2. [Proper Program Exit](./2%20-%20Proper%20Program%20Exit/)
+3. [Calculating String Length](./3%20-%20Calculating%20String%20Length/)
 
 ## \_greetz
 
