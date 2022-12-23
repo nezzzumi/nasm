@@ -30,7 +30,7 @@ nextchar:
 
 This "loop" will only stop when the byte is zero (string null terminator).
 
-When it stop, `eax` will be the address of `msg` + the length of `msg`.
+When it stops, `eax` will be the address of `msg` + the length of `msg`.
 
 Now we only need to subtract EAX by EBX.
 

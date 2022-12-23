@@ -1,6 +1,6 @@
 ## Hello, World! (with exit)
 
-This lesson is the same as the previous one, but this time we will call the syscall `exit` to properly terminate the program, and avoid a segmentation fault.
+This lesson is the same as the previous one, but this time we will call the syscall `exit` to properly terminate the program and avoid a segmentation fault.
 
 ## \_references
 
