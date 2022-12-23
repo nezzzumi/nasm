@@ -5,7 +5,7 @@ This repo contains some exercises based on my studies of x86 NASM assembly, foll
 ## \_lessons
 
 1. [Hello, World!](./1/)
-2. [Hello, World! (with SYS_EXIT)](./2/)
+2. [Proper Program Exit](./2/)
 
 ## \_greetz
 
