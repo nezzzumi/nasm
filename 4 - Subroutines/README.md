@@ -32,7 +32,7 @@ inc:
 
 We can check it by debugging the ELF.
 
-Let's compile and link the `increment.asm`.
+Let's compile our `increment.asm`.
 
 ```bash
 nasm -f elf increment.asm
