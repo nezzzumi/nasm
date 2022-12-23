@@ -6,6 +6,7 @@ This repo contains some exercises based on my studies of x86 NASM assembly, foll
 
 1. [Hello, World!](./1/)
 2. [Proper Program Exit](./2/)
+3. [Calculating String Length](./3/)
 
 ## \_greetz
 
