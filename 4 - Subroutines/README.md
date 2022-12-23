@@ -39,7 +39,7 @@ nasm -f elf increment.asm
 ld -m elf_i386 -o increment.out increment.o
 ```
 
-To set the breakpoint, we need to know what's the address of the operation.
+To set the breakpoint, we need to know the operation's address.
 
 We can use `objdump` for it.
 
@@ -47,7 +47,7 @@ We can use `objdump` for it.
 objdump -d increment.out -M intel
 ```
 
-> You can also use `disassemble _start` in GDB to check the disassemble.
+> You can also use `disassemble _start` in GDB to check the disassembly.
 
 The output:
 
@@ -69,7 +69,7 @@ Disassembly of section .text:
  8049017:       c3                      ret
 ```
 
-We will set the breakpoint at `0x804900a` (after call `inc`).
+We will set the breakpoint at `0x804900a` (after calling `inc`).
 
 Now that we already know the address, let's run the debugger.
 
@@ -101,7 +101,7 @@ Breakpoint 1, 0x0804900a in _start ()
 
 To check the value of registers, we use `info registers`, or just `info registers eax` to check only this register.
 
-> You cant just type `i r eax`
+> You can just type `i r eax`
 
 ```
 (gdb) i r eax
