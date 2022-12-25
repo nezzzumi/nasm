@@ -1,6 +1,6 @@
 ## Subroutines
 
-In this lesson, we will use subroutines, that work like a function in Python, C/C++, Java, etc.
+In this lesson, we will use subroutines, which work like a function in Python, C/C++, Java, etc.
 
 The function is created the same way as a label.
 
@@ -111,4 +111,5 @@ eax            0x2                 2
 
 ## \_references
 
+- [Lesson 4](https://asmtutor.com/#lesson4)
 - https://syscalls.w3challs.com/?arch=x86
