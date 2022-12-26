@@ -1,6 +1,6 @@
 ## \_about
 
-This repo contains some exercises based on my studies of x86 NASM assembly, following the lessons of [asmtutor](https://asmtutor.com/).
+This repo contains some exercises based on my studies of NASM (x86 assembly), following the [asmtutor](https://asmtutor.com/) lessons.
 
 ## \_lessons
 
