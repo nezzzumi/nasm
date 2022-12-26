@@ -17,4 +17,4 @@ This repo contains some exercises based on my studies of NASM (x86 assembly), fo
 
 ## \_greetz
 
-Thanks to [f69](https://github.com/0xf69/) and [sidhawks](https://github.com/sidhawkss) for introducing me to this site.
+Thanks to [f69](https://github.com/x86-69/) and [sidhawks](https://github.com/sidhawkss) for introducing me to this site.
