@@ -47,8 +47,8 @@ sprintln:
 
     push eax
 
-    ; We can't use EAX directly, because we need the address of string.
-    ; That's why we have to push it into stack, and pass the ESP (stack address pointer) as argumento to sprint
+    ; We can't use EAX directly, because we need the address of the string.
+    ; That's why we have to push it into the stack and pass the ESP (stack address pointer) as argumento to sprint
     mov eax, 0xa
     push eax
     
