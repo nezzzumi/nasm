@@ -10,6 +10,7 @@ This repo contains some exercises based on my studies of NASM (x86 assembly), fo
 4. [Subroutines](./4%20-%20Subroutines/)
 5. [External Include Files](./5%20-%20External%20Include%20Files/)
 6. [NULL Terminating Bytes](./6%20-%20NULL%20Terminating%20Bytes/)
+7. [Line Feed](./7%20-%20Linefeed/)
 
 ## \_useful
 
